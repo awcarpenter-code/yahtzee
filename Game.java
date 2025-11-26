@@ -6,6 +6,7 @@ game class for new game
 
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.InputMismatchException;
 
 public class Game
 {
