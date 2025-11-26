@@ -39,273 +39,227 @@ If a player rolls a Yahtzee on their turn and they have already filled in the Ya
 
 
 # Example Test Run
-*******************************
-       WELCOME TO YAHTZEE
-*******************************
-*** Player 1: ***
-Current Scorecard: 
-           Ones: 0 
-           Twos: 0 
-         Threes: 0 
-          Fours: 0 
-          Fives: 0 
-          Sixes: 0 
-Three of a Kind: 0 
- Four of a Kind: 0 
-     Full House: 0 
- Small Straight: 0 
- Large Straight: 0 
-        Yahtzee: 0 
-         Chance: 0 
-    Upper Total: 0 
-    Lower Total: 0 
-          Total: 0 
+*******************************  
+       WELCOME TO YAHTZEE  
+*******************************  
+*** Player 1: ***  
+Current Scorecard:  
+           Ones: 0   
+           Twos: 0   
+         Threes: 0   
+          Fours: 0   
+          Fives: 0   
+          Sixes: 0   
+Three of a Kind: 0   
+ Four of a Kind: 0   
+     Full House: 0  
+ Small Straight: 0  
+ Large Straight: 0  
+        Yahtzee: 0  
+         Chance: 0  
+    Upper Total: 0  
+    Lower Total: 0  
+          Total: 0  
 
-******************************
+******************************  
+  
+Dice:  
+1:  value 6  
+2:  value 6  
+3:  value 4  
+4:  value 6  
+5:  value 1  
+  
+  
+Please select a die # to toggle it between save and unsave, "roll" or "score": 1  
+*** Player 1: ***  
+Current Scorecard:   
+           Ones: 0   
+           Twos: 0   
+         Threes: 0   
+          Fours: 0   
+          Fives: 0   
+          Sixes: 0  
+Three of a Kind: 0  
+ Four of a Kind: 0  
+     Full House: 0  
+ Small Straight: 0  
+ Large Straight: 0  
+        Yahtzee: 0  
+         Chance: 0  
+    Upper Total: 0  
+    Lower Total: 0  
+          Total: 0  
+  
+******************************  
+  
+Dice:  
+1:  value 6 SAVED  
+2:  value 6  
+3:  value 4  
+4:  value 6  
+5:  value 1  
+  
+Please select a die # to toggle it between save and unsave, "roll" or "score": 2  
+*** Player 1: ***  
+Current Scorecard:  
+           Ones: 0  
+           Twos: 0  
+         Threes: 0  
+          Fours: 0  
+          Fives: 0  
+          Sixes: 0  
+Three of a Kind: 0  
+ Four of a Kind: 0  
+     Full House: 0  
+ Small Straight: 0  
+ Large Straight: 0  
+        Yahtzee: 0  
+         Chance: 0  
+    Upper Total: 0  
+    Lower Total: 0  
+          Total: 0  
+  
+******************************  
 
-Dice:
-1:  value 6
-2:  value 6
-3:  value 4
-4:  value 6
-5:  value 1
+Dice:  
+1:  value 6 SAVED  
+2:  value 6 SAVED  
+3:  value 4  
+4:  value 6  
+5:  value 1  
+  
+Please select a die # to toggle it between save and unsave, "roll" or "score": 4  
+*** Player 1: ***  
+Current Scorecard:  
+           Ones: 0  
+           Twos: 0  
+         Threes: 0  
+          Fours: 0  
+          Fives: 0  
+          Sixes: 0  
+Three of a Kind: 0  
+ Four of a Kind: 0  
+     Full House: 0  
+ Small Straight: 0  
+ Large Straight: 0  
+        Yahtzee: 0  
+         Chance: 0  
+    Upper Total: 0  
+    Lower Total: 0  
+          Total: 0  
+ 
+******************************  
 
+Dice:  
+1:  value 6 SAVED  
+2:  value 6 SAVED  
+3:  value 4  
+4:  value 6 SAVED  
+5:  value 1  
+  
+Please select a die # to toggle it between save and unsave, "roll" or "score": roll  
+*** Player 1: ***  
+Current Scorecard:  
+           Ones: 0  
+           Twos: 0  
+         Threes: 0  
+          Fours: 0  
+          Fives: 0  
+          Sixes: 0  
+Three of a Kind: 0  
+ Four of a Kind: 0  
+     Full House: 0  
+ Small Straight: 0  
+ Large Straight: 0  
+        Yahtzee: 0  
+         Chance: 0  
+    Upper Total: 0  
+    Lower Total: 0  
+          Total: 0  
+ 
+******************************  
 
-Please select a die # to toggle it between save and unsave, "roll" or "score": 1
-*** Player 1: ***
-Current Scorecard: 
-           Ones: 0 
-           Twos: 0 
-         Threes: 0 
-          Fours: 0 
-          Fives: 0 
-          Sixes: 0 
-Three of a Kind: 0 
- Four of a Kind: 0 
-     Full House: 0 
- Small Straight: 0 
- Large Straight: 0 
-        Yahtzee: 0 
-         Chance: 0 
-    Upper Total: 0 
-    Lower Total: 0 
-          Total: 0 
+Dice:  
+1:  value 6 SAVED  
+2:  value 6 SAVED  
+3:  value 1  
+4:  value 6 SAVED  
+5:  value 5  
+  
+Please select a die # to toggle it between save and unsave, "roll" or "score": roll  
+*** Player 1: ***  
+Current Scorecard:  
+           Ones: 0  
+           Twos: 0  
+         Threes: 0  
+          Fours: 0  
+          Fives: 0  
+          Sixes: 0  
+Three of a Kind: 0  
+ Four of a Kind: 0  
+     Full House: 0  
+ Small Straight: 0  
+ Large Straight: 0  
+        Yahtzee: 0  
+         Chance: 0  
+    Upper Total: 0  
+    Lower Total: 0  
+          Total: 0  
+ 
+******************************  
 
-******************************
+Dice:  
+1:  value 6 SAVED  
+2:  value 6 SAVED  
+3:  value 3  
+4:  value 6 SAVED  
+5:  value 1  
 
-Dice:
-1:  value 6 SAVED
-2:  value 6
-3:  value 4
-4:  value 6
-5:  value 1
+Please select a die # to toggle it between save and unsave, "roll" or "score": roll  
 
-Please select a die # to toggle it between save and unsave, "roll" or "score": 2
-*** Player 1: ***
-Current Scorecard: 
-           Ones: 0 
-           Twos: 0 
-         Threes: 0 
-          Fours: 0 
-          Fives: 0 
-          Sixes: 0 
-Three of a Kind: 0 
- Four of a Kind: 0 
-     Full House: 0 
- Small Straight: 0 
- Large Straight: 0 
-        Yahtzee: 0 
-         Chance: 0 
-    Upper Total: 0 
-    Lower Total: 0 
-          Total: 0 
+ Out of rolls, you must score  
+*** Player 1: ***  
+Current Scorecard:  
+           Ones: 0  
+           Twos: 0  
+         Threes: 0  
+          Fours: 0  
+          Fives: 0  
+          Sixes: 0  
+Three of a Kind: 0  
+ Four of a Kind: 0  
+     Full House: 0  
+ Small Straight: 0  
+ Large Straight: 0  
+        Yahtzee: 0  
+         Chance: 0  
+    Upper Total: 0  
+    Lower Total: 0  
+          Total: 0  
+  
+******************************  
 
-******************************
-
-Dice:
-1:  value 6 SAVED
-2:  value 6 SAVED
-3:  value 4
-4:  value 6
-5:  value 1
-
-Please select a die # to toggle it between save and unsave, "roll" or "score": 4
-*** Player 1: ***
-Current Scorecard: 
-           Ones: 0 
-           Twos: 0 
-         Threes: 0 
-          Fours: 0 
-          Fives: 0 
-          Sixes: 0 
-Three of a Kind: 0 
- Four of a Kind: 0 
-     Full House: 0 
- Small Straight: 0 
- Large Straight: 0 
-        Yahtzee: 0 
-         Chance: 0 
-    Upper Total: 0 
-    Lower Total: 0 
-          Total: 0 
-
-******************************
-
-Dice:
-1:  value 6 SAVED
-2:  value 6 SAVED
-3:  value 4
-4:  value 6 SAVED
-5:  value 1
-
-Please select a die # to toggle it between save and unsave, "roll" or "score": roll
-*** Player 1: ***
-Current Scorecard: 
-           Ones: 0 
-           Twos: 0 
-         Threes: 0 
-          Fours: 0 
-          Fives: 0 
-          Sixes: 0 
-Three of a Kind: 0 
- Four of a Kind: 0 
-     Full House: 0 
- Small Straight: 0 
- Large Straight: 0 
-        Yahtzee: 0 
-         Chance: 0 
-    Upper Total: 0 
-    Lower Total: 0 
-          Total: 0 
-
-******************************
-
-Dice:
-1:  value 6 SAVED
-2:  value 6 SAVED
-3:  value 1
-4:  value 6 SAVED
-5:  value 5
-
-Please select a die # to toggle it between save and unsave, "roll" or "score": roll
-*** Player 1: ***
-Current Scorecard: 
-           Ones: 0 
-           Twos: 0 
-         Threes: 0 
-          Fours: 0 
-          Fives: 0 
-          Sixes: 0 
-Three of a Kind: 0 
- Four of a Kind: 0 
-     Full House: 0 
- Small Straight: 0 
- Large Straight: 0 
-        Yahtzee: 0 
-         Chance: 0 
-    Upper Total: 0 
-    Lower Total: 0 
-          Total: 0 
-
-******************************
-
-Dice:
-1:  value 6 SAVED
-2:  value 6 SAVED
-3:  value 3
-4:  value 6 SAVED
-5:  value 1
-
-Please select a die # to toggle it between save and unsave, "roll" or "score": roll
-
- Out of rolls, you must score 
-*** Player 1: ***
-Current Scorecard: 
-           Ones: 0 
-           Twos: 0 
-         Threes: 0 
-          Fours: 0 
-          Fives: 0 
-          Sixes: 0 
-Three of a Kind: 0 
- Four of a Kind: 0 
-     Full House: 0 
- Small Straight: 0 
- Large Straight: 0 
-        Yahtzee: 0 
-         Chance: 0 
-    Upper Total: 0 
-    Lower Total: 0 
-          Total: 0 
-
-******************************
-
-Dice:
-1:  value 6 SAVED
-2:  value 6 SAVED
-3:  value 3
-4:  value 6 SAVED
-5:  value 1
-
-Select a category that you have not scored in yet:
-1 Ones : 1 points 
-2 Twos : 0 points 
-3 Threes : 3 points 
-4 Fours : 0 points 
-5 Fives : 0 points 
-6 Sixes : 18 points 
-7 Three of a Kind : 22 points 
-8 Four of a Kind : 0 points 
-9 Full House : 0 points 
-10 Small Straight : 0 points 
-11 Large Straight : 0 points 
-12 Yahtzee : 0 points 
-13 Chance : 22 points 
-7
-
-You scored 22 points in Three of a Kind
-
-*** Player 2: ***
-Current Scorecard: 
-           Ones: 0 
-           Twos: 0 
-         Threes: 0 
-          Fours: 0 
-          Fives: 0 
-          Sixes: 0 
-Three of a Kind: 0 
- Four of a Kind: 0 
-     Full House: 0 
- Small Straight: 0 
- Large Straight: 0 
-        Yahtzee: 0 
-         Chance: 0 
-    Upper Total: 0 
-    Lower Total: 0 
-          Total: 0 
-
-******************************
-
-Dice:
-1:  value 1
-2:  value 6
-3:  value 5
-4:  value 3
-5:  value 2
-
-
-Please select a die # to toggle it between save and unsave, "roll" or "score": score
-Select a category that you have not scored in yet:
-1 Ones : 1 points 
-2 Twos : 2 points 
-3 Threes : 3 points 
-4 Fours : 0 points 
-5 Fives : 5 points 
-6 Sixes : 6 points 
-7 Three of a Kind : 0 points 
-8 Four of a Kind : 0 points 
-9 Full House : 0 points 
-10 Small Straight : 30 points 
-11 Large Straight : 0 points 
-12 Yahtzee : 0 points 
-13 Chance : 17 points 
+Dice:  
+1:  value 6 SAVED  
+2:  value 6 SAVED  
+3:  value 3  
+4:  value 6 SAVED  
+5:  value 1  
+  
+Select a category that you have not scored in yet:  
+1 Ones : 1 points  
+2 Twos : 0 points  
+3 Threes : 3 points  
+4 Fours : 0 points  
+5 Fives : 0 points  
+6 Sixes : 18 points  
+7 Three of a Kind : 22 points   
+8 Four of a Kind : 0 points   
+9 Full House : 0 points  
+10 Small Straight : 0 points  
+11 Large Straight : 0 points  
+12 Yahtzee : 0 points  
+13 Chance : 22 points  
+ 
+You scored 22 points in Three of a Kind  
